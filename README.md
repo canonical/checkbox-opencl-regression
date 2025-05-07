@@ -1,3 +1,6 @@
+# DEPRECATED: Please use https://github.com/canonical/checkbox-gfx
+
+
 # Welcome to the Checkbox OpenCL project!
 
 This repository contains the Checkbox OpenCL Provider (OpenCL-specific test cases and test plans for [Checkbox]) as well as everything that is required to build the [checkbox-opencl-regression] snap in the snapstore.
